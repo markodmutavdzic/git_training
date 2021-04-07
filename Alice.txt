@@ -4,3 +4,4 @@ third line
 forth line
 Remote line
 Remote line two
+Local line
